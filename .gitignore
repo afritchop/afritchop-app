@@ -5,3 +5,5 @@ home/templates/test.html
 *.DS_S*
 *DS_S*
 templates/allauth/templates/.DS_S*
+shop-env
+.DS_Store
